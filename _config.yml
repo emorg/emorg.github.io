@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ethan Morgan / Site Title"
+title                    : "Ethan Morgan"
 title_separator          : "-"
 name                     : &name "Ethan Morgan"
 description              : &description "under construction"
@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           : "emorgp"
+  lastfm           : #"emorgp"
   linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
