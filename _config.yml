@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ethan Morgan"
   avatar           : "IMG_3097.JPG"
-  bio              : "under construction"
+  bio              : # "under construction"
   location         : "Salt Lake City, UT"
   employer         : "University of Utah"
   pubmed           : 
