@@ -7,6 +7,7 @@ author_profile: true
 
 ## University of Utah
 ### Teaching Assistant
+
 | Semester            | Course Number   |             Course Description                                                 |
 | :--------:         | :------: | ------------------------------------------------------------ |
 | Fall 2023    | MATH 1310   | Engineering Calculus I                          |
