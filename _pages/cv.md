@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics (minor in Physics), University of Arizona, 2023
+- B.S. in Mathematics (minor in Physics), University of Arizona, 2023
+  - Thesis: [Centralizer Algebras and Their Applications](http://emorg.github.io/files/ugrad_thesis.pdf), advised by Dr. Klaus Lux
 
 <!-- Work experience
 ======
