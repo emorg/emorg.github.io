@@ -10,6 +10,7 @@ author_profile: true
 
 | Semester            | Course Number   |             Course Description                                                 |
 | :--------:         | :------: | ------------------------------------------------------------ |
+| Spring 2024    | MATH 2250   | Differential Equations and Linear Algebra                          |
 | Fall 2023    | MATH 1310   | Engineering Calculus I                          |
 
 

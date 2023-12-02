@@ -14,6 +14,10 @@ Education
 - B.S. in Mathematics (minor in Physics), University of Arizona, 2023
   - Thesis: [Centralizer Algebras and Their Applications](http://emorg.github.io/files/ugrad_thesis.pdf), advised by Dr. Klaus Lux
 
+Papers
+======
+- **On a new invariant for finite groups.** with C. Cornwell, M. Doring, L.-K. Lauderdale, and N. Storr. *to appear in Journal of Combinatorics.*
+
 <!-- Work experience
 ======
 * Summer 2015: Research Assistant
