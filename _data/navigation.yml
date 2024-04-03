@@ -6,7 +6,7 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
 
   - title: "Teaching"
@@ -17,3 +17,6 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Bug Photos"
+    url: https://mcx8.github.io/bug_n_stuff_website/
