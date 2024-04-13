@@ -13,6 +13,10 @@ Education
 ======
 - B.S. in Mathematics (minor in Physics), University of Arizona, 2023
   - Thesis: [Centralizer Algebras and Their Applications](http://emorg.github.io/files/ugrad_thesis.pdf), advised by Dr. Klaus Lux
+ 
+Talks
+======
+- "Introduction to Determinantal Rings," Spring 2024, BIKES Student Seminar, University of Utah ([Notes](http://emorg.github.io/files/determinantal_rings.pdf))
 
 Papers
 ======
