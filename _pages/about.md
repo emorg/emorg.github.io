@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello!
-My name is Ethan and I'm a first year math PhD student at the University of Utah.
-There's not a whole lot to see here at the moment aside from a few bits of information about me.
-Linked above is also another website where my girlfriend and I will be posting photos of cool bugs that we find.
+Hello! My name is Ethan and I'm a first year math PhD student at the University of Utah.
+I'm still very much figuring out research interests phase of things, but at the moment I'm especially drawn to
+representation theory and commutative algebra. Outside of math, I enjoy riding bikes on and off-road, baking bread, 
+and exploring the wilderness in search of cool bugs with my partner. Linked above is our collaborative website, where
+you can find pictures of the best ones.
