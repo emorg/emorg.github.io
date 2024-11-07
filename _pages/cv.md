@@ -16,6 +16,7 @@ Education
  
 Talks
 ======
+- "A Few Cute Proofs with Spectral Sequences," Fall 2024, BIKES Student Seminar, University of Utah
 - "Introduction to Determinantal Rings," Spring 2024, BIKES Student Seminar, University of Utah ([Notes](http://emorg.github.io/files/determinantal_rings.pdf))
 
 Papers
