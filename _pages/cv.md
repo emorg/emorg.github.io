@@ -17,11 +17,11 @@ Education
 Talks
 ======
 - "A Few Cute Proofs with Spectral Sequences," Fall 2024, BIKES Student Seminar, University of Utah
-- "Introduction to Determinantal Rings," Spring 2024, BIKES Student Seminar, University of Utah ([Notes](http://emorg.github.io/files/determinantal_rings.pdf))
+- "Introduction to Determinantal Rings," Spring 2024, BIKES Student Seminar, University of Utah ([Notes](http://emorg.github.io/files/notes/determinantal_rings.pdf))
 
 Papers
 ======
-- **On a new invariant for finite groups.** with C. Cornwell, M. Doring, L.-K. Lauderdale, and N. Storr. *Journal of Combinatorics* 16 (2025), no. 1. ([Download](http://emorg.github.io/files/new_inv_fg.pdf)) 
+- **On a new invariant for finite groups.** with C. Cornwell, M. Doring, L.-K. Lauderdale, and N. Storr. *Journal of Combinatorics* 16 (2025), no. 1. ([Download](http://emorg.github.io/files/papers/new_inv_fg.pdf)) 
 
 <!-- Work experience
 ======
