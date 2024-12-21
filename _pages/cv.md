@@ -21,7 +21,7 @@ Talks
 
 Papers
 ======
-- **On a new invariant for finite groups.** with C. Cornwell, M. Doring, L.-K. Lauderdale, and N. Storr. *Journal of Combinatorics* 16 (2025), no. 1. ([Download]()) 
+- **On a new invariant for finite groups.** with C. Cornwell, M. Doring, L.-K. Lauderdale, and N. Storr. *Journal of Combinatorics* 16 (2025), no. 1. ([Download](http://emorg.github.io/files/new_inv_fg.pdf)) 
 
 <!-- Work experience
 ======
