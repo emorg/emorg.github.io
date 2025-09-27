@@ -96,11 +96,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"emorg"
+  github           : "emorg"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  inaturalist      : "https://www.inaturalist.org/people/mogan"
   lastfm           : #"emorgp"
   linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"

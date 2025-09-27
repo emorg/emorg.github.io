@@ -16,6 +16,7 @@ Education
  
 Talks
 ======
+- "Introduction to Strict Polynomial Functors," Spring 2025, BIKES Student Seminar, University of Utah
 - "A Few Cute Proofs with Spectral Sequences," Fall 2024, BIKES Student Seminar, University of Utah
 - "Introduction to Determinantal Rings," Spring 2024, BIKES Student Seminar, University of Utah ([Notes](http://emorg.github.io/files/notes/determinantal_rings.pdf))
 
