@@ -16,6 +16,7 @@ Education
  
 Talks
 ======
+- "Associated Primes of Local Cohomology Modules," Fall 2025, BIKES Student Seminar, University of Utah
 - "A Tale of two Hermanns - or, Counting is Hard: An Introduction to Schubert Calculus," Fall 2025, BAGELS Student Seminar, University of Utah
 - "Introduction to Strict Polynomial Functors," Spring 2025, BIKES Student Seminar, University of Utah
 - "A Few Cute Proofs with Spectral Sequences," Fall 2024, BIKES Student Seminar, University of Utah
