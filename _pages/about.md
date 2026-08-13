@@ -15,5 +15,4 @@ I am one of the organizers of [BIKES](https://bagels-bikes.github.io/bikes/), ou
 Along with a handful of friends, I'm also helping to carry on the tradition of the [Living Room Exchange of Mathematics](https://sites.google.com/view/livreofmathematics).
 
 Outside of math, I enjoy riding bikes, drinking tea, baking bread, 
-and exploring the wilderness in search of cool bugs with my partner. Linked above is our collaborative website, where
-you can find pictures of the best ones.
+and exploring the wilderness in search of cool bugs. I also maintain a modest collection of various pet invertebrates.
